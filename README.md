@@ -34,5 +34,10 @@ They include:
 - [`rbackupr`](https://github.com/giocomai/rbackupr) - An R package to backup folders to Google Drive with limited permissions (it kind of works, but I don't really recommend it for broad use at this stage)
 - [`gpx2pdf`](https://github.com/giocomai/gpx2pdf) - R package and shiny interface to create a pdf printout based on a gpx track (you know, with elevation charts and black and white maps? I made it for a very specific projects and started to transform into an R package but it still shows that it's half way through... perhaps still useful if somebody aims to achieve something like it)
 
+## Contributions to tidyverse and other packages
+
+I am happy to have contributed to some of the most used packages in the R ecosystems. These are small contributions, but I remain nonetheless proud to be featured in the "acknowledgment" section of the release notes of [`tidyr` (version 1.0)](https://www.tidyverse.org/blog/2019/09/tidyr-1-0-0/#thanks) and [`readr` (version 2.0)](https://www.tidyverse.org/blog/2021/07/readr-2-0-0/#acknowledgements). I have also contributed to other packages, such as [`workflowr`](https://github.com/workflowr/workflowr), 
+
+## About me
 
 More about me on my website, [giorgiocomai.eu](https://giorgiocomai.eu/)
