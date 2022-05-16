@@ -39,6 +39,18 @@ They include:
 
 I am happy to have contributed to some of the most used R packages. These are small contributions, but I remain nonetheless proud to be featured in the "acknowledgments" section of the release notes of [`tidyr` (version 1.0)](https://www.tidyverse.org/blog/2019/09/tidyr-1-0-0/#thanks) and [`readr` (version 2.0)](https://www.tidyverse.org/blog/2021/07/readr-2-0-0/#acknowledgements). I have also contributed to other packages, such as [`workflowr`](https://github.com/workflowr/workflowr) and [`rtweet`](https://github.com/ropensci/rtweet/pull/378).
 
+## Some blog posts
+
+- [Animating ‘One Degree Warmer’ time series with ggplot2 and gganimate](https://medium.com/european-data-journalism-network/animating-one-degree-warmer-time-series-with-ggplot2-and-gganimate-7460862fcd7e)” (9 November 2018)
+- [European Elections 2019 and Italy's varying size](https://medium.com/european-data-journalism-network/european-elections-2019-and-italys-varying-size-fb4ed07d4ff6) - (11 June 2019)
+- [How to feel lucky on a Monday morning: calculating the travel distance between places and each point of the European population grid](https://medium.com/european-data-journalism-network/how-to-feel-lucky-on-a-monday-morning-b73f4235320d)” (27 November 2019)
+- [How to find the population-weighted centre of local administrative units](https://medium.com/european-data-journalism-network/how-to-find-the-population-weighted-centre-of-local-administrative-units-a0d198fc91f7)” (27 March 2020)
+- [Beautiful Gantt charts with ggplot2](https://medium.com/european-data-journalism-network/beautiful-gantt-charts-with-ggplot2-80ccd8c2c788) - 4 June 2020
+- [Google Earth Studio as a data visualisation tool (with R)](https://medium.com/european-data-journalism-network/google-earth-studio-as-a-data-visualisation-tool-with-r-9501ddd6869)” (8 October 2020)
+- [Visualising risk: a modern implementation of the Risk Characterisation Theatre](https://medium.com/european-data-journalism-network/visualising-risk-a-modern-implementation-of-the-risk-characterization-theatre-2ea860fe08e7)” (29 April 2021)
+- [Finding gendered street names. A step-by-step walkthrough with R](https://medium.com/european-data-journalism-network/finding-gendered-street-names-a-step-by-step-walkthrough-with-r-7608c2d36a77) (16 July 2021)
+
+
 ## About me
 
 More about me on my website, [giorgiocomai.eu](https://giorgiocomai.eu/)
