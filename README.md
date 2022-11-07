@@ -27,7 +27,7 @@ They include:
 ## Datasets
 
 - [`tifkremlinen`](https://github.com/giocomai/tifkremlinen) - A corpus with all items published on the website of the Kremlin (1999-2020) - (it even has a hex logo, and a [DOI](https://discuss-data.net/dataset/5eb1481e-ae89-45bf-9c88-03574910730a/), so it's surely serious stuff; to be honest, I do have big plans about expanding this one)
-- [`olympics2020nuts`](https://github.com/EDJNet/olympics2020nuts`) - Retrieve details about Olympics 2020 medalists via Wikipedia and Wikidata (check out the readme for more details as well as [this nice map](https://edjnet.github.io/olympics2020nuts/medalists_map.html))
+- [`olympics2020nuts`](https://github.com/EDJNet/olympics2020nuts) - Retrieve details about Olympics 2020 medalists via Wikipedia and Wikidata (check out the readme for more details as well as [this nice map](https://edjnet.github.io/olympics2020nuts/medalists_map.html))
 - [`european_routes`](https://github.com/EDJNet/european_routes) - Matching data from Eurostat's datasets on flights to hubs with coordinates and data on train routes, [see also step-by-step process](https://edjnet.github.io/european_routes/)
 - [`lau_centres`](https://github.com/EDJNet/lau_centres) -  Population-weighted centres of local administrative units and consistent concordance with NUTS regions ([website with all details](https://edjnet.github.io/lau_centres/))
 - [When Europeans go the cinema, what do they watch?](https://datavis.europeandatajournalism.eu/obct/giocomai/2018-04-EuropeanCinema/) - An interactive exploration of cinema-goers' habits in Europe based on twenty years of data (1996-2016) on 40 996 films (just visuals, no dataset).
