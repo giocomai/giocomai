@@ -38,7 +38,7 @@ They include:
 
 ## Contributions to tidyverse and other packages
 
-I am happy to have contributed to some of the most used R packages. These are small contributions, but I remain nonetheless proud to be featured in the "acknowledgments" section of the release notes of [`tidyr` (version 1.0)](https://www.tidyverse.org/blog/2019/09/tidyr-1-0-0/#thanks), [`readr` (version 2.0)](https://www.tidyverse.org/blog/2021/07/readr-2-0-0/#acknowledgements), and [`dbplyr` (version 2.3.0)](https://www.tidyverse.org/blog/2023/01/dbplyr-2-3-0/). I have also contributed to other packages, such as [`workflowr`](https://github.com/workflowr/workflowr), [`rtweet`](https://github.com/ropensci/rtweet/pull/378), and [`wikidataR`](https://github.com/TS404/WikidataR/pull/9), and reported bugs in others, such as [`fs`](https://github.com/r-lib/fs/issues/384).
+I am happy to have contributed to some of the most used R packages. These are small contributions, but I remain nonetheless proud to be featured in the "acknowledgments" section of the release notes of [`tidyr` (version 1.0)](https://www.tidyverse.org/blog/2019/09/tidyr-1-0-0/#thanks), [`readr` (version 2.0)](https://www.tidyverse.org/blog/2021/07/readr-2-0-0/#acknowledgements), and [`dbplyr` (version 2.3.0)](https://www.tidyverse.org/blog/2023/01/dbplyr-2-3-0/). I have also contributed to other packages, such as [`workflowr`](https://github.com/workflowr/workflowr), [`rtweet`](https://github.com/ropensci/rtweet/pull/378), and [`wikidataR`](https://github.com/TS404/WikidataR/pull/9), and reported confirmed bugs in others, including [`arrow`](https://github.com/apache/arrow/issues/36720) and [`fs`](https://github.com/r-lib/fs/issues/384).
 
 ## Some blog posts
 
